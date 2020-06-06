@@ -13,8 +13,6 @@ CSS
 # AUTHORS
 Adish Aggarwal
 
-# SCREENSHOTS
-![](images/1.JPG)
 
 
 
